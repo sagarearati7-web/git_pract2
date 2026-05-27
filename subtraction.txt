@@ -1,0 +1,8 @@
+# Subtraction of numbers from 1 to 100
+
+result = 0
+
+for i in range(1, 101):
+    result -= i
+
+print("Result after subtraction is:", result)
