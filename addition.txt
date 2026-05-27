@@ -6,3 +6,5 @@ for i in range(1, 101):
     total += i
 
 print("Sum of first 100 numbers is:", total)
+
+print("same goes for rest digits")
